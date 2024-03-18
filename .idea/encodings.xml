@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="ISO-8859-1">
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/spring/common/aspect/PojoAspectJ.java" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/src/main/java/spring/service/user/UserService.java" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/mybatis/service/user/test/MyBatisTestApp15.java" charset="EUC-KR" />
+  </component>
+</project>
